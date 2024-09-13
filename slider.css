@@ -188,7 +188,7 @@ input[type="radio"] {
 .manual-btn:active {
     transform: scale(1.1);
 }
-@media (max-width: 767px) {
+@media (max-width: 1080px) {
     .slider {
         height: 25rem; 
     }
