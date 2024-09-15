@@ -50,9 +50,8 @@ body {
 }
 
 .slide img {
-    width: 70%;
+    width: 100%;
     height: auto;
-    padding: 1rem;
     border-radius: 0.5rem;
 }
 
@@ -188,7 +187,7 @@ input[type="radio"] {
 .manual-btn:active {
     transform: scale(1.1);
 }
-@media (max-width: 767px) {
+@media (max-width: 1080px) {
     .slider {
         height: 25rem; 
     }
